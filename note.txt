@@ -1,0 +1,14 @@
+
+
+RestAssured:
+- https://mvnrepository.com/artifact/io.rest-assured/rest-assured
+
+TestNG:
+https://mvnrepository.com/artifact/org.testng/testng
+
+JSON Simple:
+https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple
+
+Apache POI
+- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml/
+- https://mvnrepository.com/artifact/org.apache.poi/poi

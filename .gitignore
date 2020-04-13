@@ -1,0 +1,29 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+#output directory
+test-output
+
+#compiled resources
+target
+
+#dynamic resources
+ResultsFile.txt
+RunId.txt
+TestRunPropertiesFile.txt
+src/com/monotype/mt_common_utils/testRailUtils/TestRailTest.java
+src/com/monotype/mt_common_utils/testRailUtils/testng.xml
+testdata.csv
+testRailInitiationFile.json
+.idea/
+mt-common-utils.iml
