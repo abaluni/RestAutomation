@@ -12,3 +12,9 @@ https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple
 Apache POI
 - https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml/
 - https://mvnrepository.com/artifact/org.apache.poi/poi
+
+Install TestLink on Windows 10
+
+- https://www.youtube.com/watch?v=zqKlmlasCsk
+
+Git workflow - Gitflow workflow
